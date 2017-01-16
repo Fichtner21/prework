@@ -1,0 +1,30 @@
+body
+{
+	font-size: 20px;
+	color: grey;
+	font-weight: 700;
+}
+
+#container
+{
+	background-color: white;
+	width: 560px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+input[type=text],
+input[type=email]
+{
+	width: 545px;
+	margin-left: 5px;
+	margin-right: 10px;
+}
+
+input[type=submit]
+{
+	width: 100px;
+	margin-top:20px;
+}
+
+

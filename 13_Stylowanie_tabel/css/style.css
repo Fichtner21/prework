@@ -1,0 +1,24 @@
+body
+{
+	font-size: 40px;
+	background-color: gray;
+}
+
+.nav
+{
+	background-color: #147cf1;
+	color: #ffffff;
+	font-weight: 700;
+}
+
+.dat
+{
+	border: 3px dotted #8914f1;
+}
+
+table
+{
+	border-collapse: separate;
+	border-spacing: 10px;
+	background-color: #f18914;
+}

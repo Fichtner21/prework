@@ -1,0 +1,29 @@
+body
+{
+	background-color: #999966;
+}
+
+#div1
+{
+	width: 500px;
+	height: 200px;
+	border: 3px solid #FF3333;
+	float: right;
+}
+
+#div2
+{
+	width: 500px;
+	height: 200px;
+	border: 3px solid #FF3333;
+}
+
+.p1
+{
+	width: 500px;
+	height: 200px;
+	border: 2px dotted #aaabbb;
+	float: left;
+	color: lightgray;
+}
+
