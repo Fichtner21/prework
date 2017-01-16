@@ -1,0 +1,28 @@
+body
+{
+	background-color: #dedede;
+}
+
+a:link, a:visited 
+{
+    color: red;
+    border: dotted #FF0000;
+	display: inline-block;
+    text-decoration: none;
+    width: 500px;
+}
+
+a:hover, a:active 
+{
+    background-color: white;
+}
+
+p
+{
+	color: red;
+    border: dotted #FF0000;
+	display: inline-block;
+    text-decoration: none;
+    width: 500px;
+}
+

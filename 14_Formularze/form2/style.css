@@ -1,0 +1,21 @@
+body
+{
+	font-size: 20px;
+}
+
+#container
+{
+	font-size: 16px;
+	width: 480px;
+}
+
+input[type=checkbox],
+input[type=radio]
+{
+	color: gray;
+}
+
+input[type=submit]
+{
+	margin-top: 30px;
+}
